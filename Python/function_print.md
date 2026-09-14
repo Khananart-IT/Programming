@@ -94,5 +94,4 @@
 
 |Escape Character|ความหมาย|ตัวอย่างโค้ด|Output|
 | -------- | -------- | -------- | -------- |
-|\n|ขึ้นบรรทัดใหม่ (New Line)|print("Line1\nLine2")|Line1
-Line2|
+|\n|ขึ้นบรรทัดใหม่ (New Line)|print("Line1\nLine2")|Line1\nLine2|
