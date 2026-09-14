@@ -96,5 +96,5 @@
 | -------- | -------- | -------- | -------- |
 |**\n**|ขึ้นบรรทัดใหม่ (New Line)|print("Line1\nLine2")|Line1<br>Line2|
 |**\t**|เว้นช่องว่างแบบ Tab|print("Name:\tJeff")|Name: Jeff|
-|**\" / \'**|พิมพ์เครื่องหมายอัญประกาศ|print("He said \"Hi\"")|He said "Hi"|
+|**\\" / \\'**|พิมพ์เครื่องหมายอัญประกาศ|print("He said \"Hi\"")|He said "Hi"|
 |**\\\\**|พิมพ์เครื่องหมาย Backslash|print("C:\\Users\\Jeff")|C:\Users\Jeff|
